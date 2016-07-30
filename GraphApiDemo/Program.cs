@@ -12,7 +12,7 @@ namespace GraphApiDemo
     class Program
     {
         static string graphUrl = "https://graph.windows.net";
-        static string loginUrl = "https://login.windows.net/mywebapp.onmicrosoft.com";
+        static string loginUrl = "https://login.windows.net/myAD.onmicrosoft.com";
         static string tenantId = "94effaa8-8e58-451a-b107-03a5da9c0422";
         static string clientId = "64642343-c74d-4506-b164-71348f248bcd"; // client identifier
         static string clientSecret = "SECRET KEY"; // client secret key to access AD
